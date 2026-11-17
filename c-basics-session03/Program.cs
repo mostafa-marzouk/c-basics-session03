@@ -1,4 +1,6 @@
-﻿namespace c_basics_session03
+﻿using System.Text;
+
+namespace c_basics_session03
 {
     internal class Program
     {
@@ -24,6 +26,16 @@
             //string title2 = "Clean Code";
             //Console.WriteLine(ReferenceEquals(title1,title2));
 
+            #endregion
+            #region Q3
+            /*
+             Create a StringBuilder, Append() the text "Book List", then Append() " - Updated" onto the same
+                object. Print the final result.
+             */
+            //StringBuilder sb = new StringBuilder();
+            //sb.Append("Book List");
+            //sb.Append(" - Updated");
+            //Console.WriteLine(sb);
             #endregion
         }
     }
