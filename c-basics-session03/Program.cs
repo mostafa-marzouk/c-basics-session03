@@ -49,6 +49,16 @@ namespace c_basics_session03
             //sb.Replace("Book List", "Library");
             //Console.WriteLine(sb);
             #endregion
+            #region Q5
+            /*
+             Given string title = "Clean Code"; and int pages = 464;, build the sentence "Book: Clean Code,
+                Pages: 464" using the + operator.
+             */
+            //string title = "Clean Code";
+            //int pages = 464;
+            //Console.WriteLine("Book : "+title + ", Pages: " + pages);
+
+            #endregion
         }
     }
 }
