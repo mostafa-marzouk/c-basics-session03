@@ -59,6 +59,14 @@ namespace c_basics_session03
             //Console.WriteLine("Book : "+title + ", Pages: " + pages);
 
             #endregion
+            #region Q6
+            // Build the same sentence as above, but using string interpolation ($"...").
+
+            //string title = "Clean Code";
+            //int pages = 464;
+            //Console.WriteLine($"Book : {title} , Pages: {pages}");
+            #endregion
+
         }
     }
 }
